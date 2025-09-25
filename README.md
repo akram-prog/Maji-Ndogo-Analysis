@@ -46,4 +46,4 @@ The ultimate goal is to **improve data integrity, resource allocation, and decis
 
 ## 📒 Notebook
 The full SQL analysis is documented in this Jupyter Notebook:  
-👉 [maji_ndogo.ipynb](maji_ndogo.ipynb)
+👉 [maji_ndogo.ipynb](INTEGR~1.IPY)
