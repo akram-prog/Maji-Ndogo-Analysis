@@ -44,3 +44,6 @@ The ultimate goal is to **improve data integrity, resource allocation, and decis
   - **Lalitha Kaburi**
 - Evidence suggests **human error or misconduct** as the root cause
 
+## 📒 Notebook
+The full SQL analysis is documented in this Jupyter Notebook:  
+👉 [maji_ndogo.ipynb](maji_ndogo.ipynb)
