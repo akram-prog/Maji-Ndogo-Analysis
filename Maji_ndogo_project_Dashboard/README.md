@@ -45,7 +45,7 @@ This repo highlights how **data storytelling** can turn raw data into **actionab
 - Total cost breakdown by **province** and by **type of improvement**  
 - Progress tracking over time  
 
-![Improvement Plan](Images/Improvement Plan.JPG)
+![Improvement Plan](Images/Improvement_Plan.JPG)
 
 ### 2. Vendor & Location Analysis  
 - Vendor performance (average cost, projects completed, population covered)  
@@ -53,7 +53,7 @@ This repo highlights how **data storytelling** can turn raw data into **actionab
 - Improvement count (RO filters, UV + RO filters)  
 - Regional disparities highlighted on map  
 
-![Vendor Analysis](Images/vendor charges.JPG)
+![Vendor Analysis](Images/vendor_charges.JPG)
 
 ---
 
