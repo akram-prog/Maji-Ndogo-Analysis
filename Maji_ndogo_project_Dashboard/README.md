@@ -57,4 +57,20 @@ This repo highlights how **data storytelling** can turn raw data into **actionab
 
 ---
 
-## 📂 Repository Structure  
+## 🚀 How to Use  
+1. Clone this repository.  
+2. Install **MySQL** and **Jupyter Notebook**.  
+3. Load the `md_water_services` database.  
+4. Open the notebook in `notebook/` to reproduce the SQL analysis.  
+5. Explore dashboards in `bi_dashboard/` (or view screenshots in `images/`).  
+6. Read the **final presentation** in `reports/` for a summary of insights.  
+
+---
+
+## 📌 Final Note  
+This project demonstrates a **complete data pipeline**:  
+- **SQL & Jupyter** → Detect data discrepancies  
+- **SQL modeling** → Design interventions  
+- **Power BI** → Communicate results visually  
+
+It reflects real-world skills in **data science, business intelligence, and data storytelling**, bridging technical insights with **strategic decision-making**.  
