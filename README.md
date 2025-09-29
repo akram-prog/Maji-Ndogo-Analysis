@@ -54,11 +54,30 @@ The project unfolds in two key stages:
 ## 📊 Dashboards  
 
 ### National Improvement Plan  
-![Improvement Plan](images/Improvement_Plan.JPG)  
+![Improvement Plan](Maji_ndogo_project_Dashboard/Images/Improvement_Plan.JPG)  
 
 ### Vendor & Location Analysis  
-![Vendor Analysis](images/vendor_charges.JPG)  
+![Vendor Analysis](Maji_ndogo_project_Dashboard/Images/vendor_charges.JPG)  
 
 ---
 
-## 📂 Repository Structure  
+## 🚀 How to Use  
+1. Clone this repository.  
+2. Install **MySQL** and **Jupyter Notebook**.  
+3. Load the `md_water_services` database.  
+4. Open the notebook in the `notebook/` folder.  
+5. Run SQL queries step by step.  
+6. Explore the **Power BI dashboards** in the `bi_dashboard/` folder, or view screenshots in `images/`.  
+7. Check the **final presentation** in `reports/` for a summary of insights.  
+
+---
+
+## 📌 Final Note  
+This project demonstrates a **complete data analysis pipeline**:  
+
+- **Part 1** → Detecting discrepancies & corruption  
+- **Part 2** → Designing interventions & improvement plans  
+- **Dashboards** → Communicating results with Power BI  
+
+It showcases skills in **SQL, database design, analytics, and BI storytelling** — turning raw data into **actionable recommendations** for real-world impact.  
+  
